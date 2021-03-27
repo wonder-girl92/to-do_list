@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 35px;
+}
+
+h1 {
+  color: darkmagenta;
+}
+
+.forms {
+  margin-bottom: 20px;
+}
+
+.forms input {
+  border-radius: 4px;
+  border: 1px solid #E5E5E5;
+}
+
+.forms button {
+  background-color: #dd7fdd;
+  margin-right: 15px;
+  border-radius: 4px;
+  border: 1px solid #E5E5E5;
+ }
+
+.enter {
+  margin-right: 15px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
